@@ -1,5 +1,5 @@
 import { Redirect, Route } from 'react-router-dom';
-import {
+import { 
   IonApp,
   IonIcon,
   IonLabel,
