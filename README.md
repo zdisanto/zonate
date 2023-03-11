@@ -1,2 +1,2 @@
-# zonate
-Zonate - A better way to donate
+# Zonate
+###### A better way to donate
