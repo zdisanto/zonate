@@ -12,6 +12,7 @@ const Tab1: React.FC = () => {
       </IonHeader>
       <IonContent fullscreen>
         <IonHeader collapse="condense">
+          Hello GitHub
           {/* <IonToolbar>
             <IonTitle size="large">Events</IonTitle>
           </IonToolbar> */}
