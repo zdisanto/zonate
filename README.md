@@ -1,5 +1,5 @@
 # Zonate
-###### A Better Way to Donate
+### A Better Way to Donate
 
 Zonate was created as a group project for Pace University's Graduate Class, _IS638: Introduction to User Experience_. Zonate is a platform that links people with nearby donation centers for the purpose of donating their used clothing, household items, and food, as well as offering opportunities for volunteering.
 
