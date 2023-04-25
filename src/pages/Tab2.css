@@ -1,0 +1,21 @@
+ion-button {
+    margin: 10px !important;
+}
+/* .searchButton {
+    
+} */
+.volOpTitle {
+    margin-top: -10px !important;
+    margin-bottom: -10px !important;
+    margin-left: -5px !important;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+.hrPhones {
+    margin-top: -1px !important;
+    margin-bottom: -1px !important;
+}
+ion-card {
+    max-width: 400px;
+}
