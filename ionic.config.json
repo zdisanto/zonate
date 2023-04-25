@@ -1,0 +1,7 @@
+{
+  "name": "Zonate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
